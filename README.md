@@ -26,13 +26,13 @@ Creating the Pikachu took a very long time because I used so many different equa
 <br />
 
 
-**Step 2 :** Created a parabolic equation with a variable constants A,B, and C each for controlling concavity, X and Y 
-position of the graph to match with the picture. The following parabolic equation was used : 'Y = A((X - B)^2) + C'
+**Step 2 :** Created a parabolic equation with a variable constants A,B, and C for controlling concavity, X and Y 
+position of the graph to trace certain parts of pikachu. The following parabolic equation was used : $Y = A((X - B)^2) + C$
 <br />
 <br />
 
 
-**Step 3 :** Once the graph matches with the picture, certain parts were removed using domains and range.<br />
+**Step 3 :** Once the graph matched with the picture, unnecessary parts of the graph were removed using domains and range.<br />
 ![Pikachu_-_Chrome_2023-05-28_16-24-58_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/88e56472-a879-4144-8cb2-e50f300d62f0)
 <br />
 <br />
@@ -48,7 +48,7 @@ position of the graph to match with the picture. The following parabolic equatio
 <br />
 <br />
 
-**Step 6 :** Two slider variables were added to each equations for controlling the horizontal and vertical position of Pikachu<br />
+**Step 6 :** Finally, two slider variables were included on every partial equations of Pikachu for controlling the horizontal and vertical position of the entire Pikachu<br />
 ![Pikachu_-_Chrome_2023-05-28_16-35-47_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/f740967f-7dd2-4423-91c6-f995e49a12b5)
 <br />
 <br />
@@ -56,10 +56,10 @@ position of the graph to match with the picture. The following parabolic equatio
 <br />
 
 ## PokeBall
-Creating pokeball was fairly easy because all I needed was a horizontal asymptote and two circles 
+Creating pokeball was simple because all I needed was a horizontal asymptote and two circles 
 <br />
 
-**Step 1 :** Created equation template for the circle '(X-A)^2+(Y-B)^2=C^2'
+**Step 1 :** Created equation template for the circle $(X-A)^2+(Y-B)^2=C^2$
 <br />
 <br />
 
@@ -74,7 +74,7 @@ Creating pokeball was fairly easy because all I needed was a horizontal asymptot
 <br />
 <br />
 
-**Step 4 :** Two slider variables were added to each equations for controlling horizontal and vertical position of the Pokeball.<br />
+**Step 4 :** Two slider variables were included on each equations for controlling horizontal and vertical position of the Pokeball.<br />
 ![Pikachu_-_Chrome_2023-05-28_16-52-29_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/cbe51756-feb1-4c6c-8cad-c2208d755d21)
 <br />
 <br />
@@ -82,9 +82,9 @@ Creating pokeball was fairly easy because all I needed was a horizontal asymptot
 <br />
 
 ## Water 
-Creating the water equation was fairly easy because I only used sinusoidal equation however coming up with the various interactive features on the sinusoidal wave was difficult. 
+Creating the water equation was fairly easy because I only used sinusoidal equation with inequality. However coming up with the various interactive features on the sinusoidal wave was confusing. 
 
-**Step 1:** Sinusoidal function and inequality function was combined to create the affect of having a wave like form filled with blue colors below the graph just like water.
+**Step 1:** Sinusoidal function with inequality was combined to create the affect of having a wave like form filled with blue colors under the graph just like water.
 <br />
 <br />
 
