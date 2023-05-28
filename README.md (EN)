@@ -1,5 +1,5 @@
- Interactive Pikachu Graph
- =============
+Interactive Pikachu Graph
+=============
 
 I created an interactive graph of pikachu and pokeball floating on water using various graphs!
 The pikachu, pokeball and water is made interactive to make it even better!
@@ -139,20 +139,20 @@ Graph functions for each components are in the following folders :
 
 ### 1.Pikachu
 Pikachu is made up of 
-  * Circles (9)
-  * parabola (9)
-  * Ellipse (2)
-  * log (2)
-  * Exponential (1)
-  * Cubic (1)
-  * Square root (1)  
+* Circles (9)
+* parabola (9)
+* Ellipse (2)
+* log (2)
+* Exponential (1)
+* Cubic (1)
+* Square root (1)  
 <br />
 <br />
 
 ### 2.Pokeball
 Pokeball is made up of: 
-  * Circles (2)
-  * Horizontal asymptote (2)
+* Circles (2)
+* Horizontal asymptote (2)
 <br />
 
 ### 3.Water
