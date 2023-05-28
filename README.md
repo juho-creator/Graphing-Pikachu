@@ -41,7 +41,8 @@ Step 5 : Step 1~4 was repeated to create Pikachu
 Step 6 : Two variables were added to each equations for controlling the X&Y position for the horizontal and vertical control of Pikachu<br />
 ![Pikachu_-_Chrome_2023-05-28_16-35-47_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/f740967f-7dd2-4423-91c6-f995e49a12b5)
 
-
+<br />
+<br />
 ## PokeBall
 Creating pokeball was fairly easy because all I needed was a horizontal asymptote and two circles 
 
@@ -54,50 +55,51 @@ Step 2 :  Adjusted the size of the two circle<br />
 Step 3 : Created 2 horizontal asymptote, each with different domains for the 2 lines in the middle of the pokeball.<br />
 ![Pikachu_-_Chrome_2023-05-28_16-47-10_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/762c90a4-571c-4e8f-b0fa-2b941eb5b2a0)
 
-
-
 Step 4 : Two slider variables were added to each equations for controlling horizontal and vertical position of the Pokeball.<br />
 ![Pikachu_-_Chrome_2023-05-28_16-52-29_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/cbe51756-feb1-4c6c-8cad-c2208d755d21)
 
-
-
-
+<br />
+<br />
 ## Water 
 Creating the water equation was easy because I only used sinusoidal equation however coming up with the various interactive features on the sinusoidal wave was difficult. 
 
 Step 1: Sinusoidal function and inequality function was combined to create the affect of having a wave like form filled with blue colors below the graph just like water.<br />
 ![Pikachu_-_Chrome_2023-05-28_16-55-16_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/cc93cff3-219d-404b-b094-5d4abb404dfa)
 
-
-
 Step 2: 4 variables were added to control the water waves.<br />
 ![Pikachu_-_Chrome_2023-05-28_16-58-15_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/b03b495f-4305-4717-ab9a-d8a5ae29f076)
 
-
-
+<br />
+<br />
+<br />
 # Control Settings
 You can play around with the settings for water, pikachu and the Pokeball. 
 The control settings are in the **Water_Control, Pikachu_Control and Pokeball_Control** respectively.
 
-
+<br />
+<br />
 ### Pikachu_Control :
 **P_{Horizontal}** : horizontal position of Pikachu
 **P_{Vertical}** : vertical position of Pikachu
 
 
-
+<br />
+<br />
 ### Pokeball_Control: 
 **B_{Horizontal}** : horizontal position of four people
 **B_{Vertical}** : vertical position of pokeball
 
-
+<br />
+<br />
 ### Water_Control :
 **W_{Flow}** : Enables water animation
 **W_{Amp}** : Wave amplitude
 **W_{freq}** : Frequency of wave 
 **W_{Level}** : Water level
 
-
+<br />
+<br />
+<br />
 # Graph components
 Graph functions for each components are in the following folders :
 ### 1.Pikachu
@@ -109,12 +111,14 @@ Pikachu is made up of
   * Exponential (1)
   * Cubic (1)
   * Square root (1) 
-
+ 
+<br />
 ### 2.Pokeball
 Pokeball is made up of: 
   * Circles (2)
   * Horizontal asymptote (2)
 
+<br />
 ### 3.Water
 Water is made up of a sinusoidal function
 
