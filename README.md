@@ -94,7 +94,7 @@ Creating the water equation was fairly easy because I only used sinusoidal equat
 <br />
 
 
-**Step 2:** 4 variables were added to control the water waves.<br />
+**Step 2:** 4 slider variables were added to control the water waves.<br />
 ![Pikachu_-_Chrome_2023-05-28_16-58-15_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/b03b495f-4305-4717-ab9a-d8a5ae29f076)
 <br />
 <br />
@@ -111,24 +111,29 @@ The control settings are in the **Water_Control, Pikachu_Control and Pokeball_Co
 
 
 ### Pikachu_Control :
-**P_{Horizontal}** : horizontal position of Pikachu
-**P_{Vertical}** : vertical position of Pikachu
+**P_Horizontal** : horizontal position of Pikachu
+<br />
+
+**P_Vertical** : vertical position of Pikachu
 <br />
 <br />
 
 
 ### Pokeball_Control: 
-**B_{Horizontal}** : horizontal position of four people
-**B_{Vertical}** : vertical position of pokeball
+**B_Horizontal** : horizontal position of four people
+<br />
+
+**B_Vertical** : vertical position of pokeball
 <br />
 <br />
 
 
 ### Water_Control :
-**W_{Flow}** : Enables water animation
-**W_{Amp}** : Wave amplitude
-**W_{freq}** : Frequency of wave 
-**W_{Level}** : Water level
+**W_Flow** : Enables water animation<br />
+**W_Amp** : Wave amplitude<br />
+**W_freq** : Frequency of wave <br />
+**W_Level** : Water level<br />
+
 <br />
 <br />
 <br />
