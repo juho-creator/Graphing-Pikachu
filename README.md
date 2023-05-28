@@ -23,34 +23,34 @@ Creating the Pikachu took a very long time because I used so many different equa
 <br />
 
 **Step 1 :** I added a png of Pikachu on desmos. 
-
 <br />
+
 **Step 2 :** Created a parabolic equation with a variable constants A,B, and C each for controlling concavity, X and Y 
 position of the graph to match with the picture. The following parabolic equation was used : 'Y = A((X - B)^2) + C'
-
 <br />
+
 **Step 3 :** Once the graph matches with the picture, certain parts were removed using domains and range.<br />
 ![Pikachu_-_Chrome_2023-05-28_16-24-58_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/88e56472-a879-4144-8cb2-e50f300d62f0)
-
-
 <br />
+
+
 **Step 4 :**  If certain parts weren't covered by parabolic equation, other equations were used(Circles,Ellipse,log, Exponential,Cubic,Square root)<br />
 ![Pikachu_-_Chrome_2023-05-28_16-32-23_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/848dce22-e0b1-4037-8e9f-9bb35d6382d9)
-
-
 <br />
+
+
 **Step 5 :** Step 1~4 was repeated to create Pikachu
-
 <br />
+
 **Step 6 :** Two variables were added to each equations for controlling the X&Y position for the horizontal and vertical control of Pikachu<br />
 ![Pikachu_-_Chrome_2023-05-28_16-35-47_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/f740967f-7dd2-4423-91c6-f995e49a12b5)
+<br />
+<br />
 
-<br />
-<br />
 ## PokeBall
 Creating pokeball was fairly easy because all I needed was a horizontal asymptote and two circles 
-
 <br />
+
 **Step 1 :** Created equation template for the circle '(X-A)^2+(Y-B)^2=C^2'
 
 **Step 2 :**  Adjusted the size of the two circle<br />
@@ -62,7 +62,6 @@ Creating pokeball was fairly easy because all I needed was a horizontal asymptot
 
 **Step 4 :** Two slider variables were added to each equations for controlling horizontal and vertical position of the Pokeball.<br />
 ![Pikachu_-_Chrome_2023-05-28_16-52-29_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/cbe51756-feb1-4c6c-8cad-c2208d755d21)
-
 <br />
 <br />
 
@@ -75,40 +74,44 @@ Creating the water equation was easy because I only used sinusoidal equation how
 
 **Step 2: **4 variables were added to control the water waves.<br />
 ![Pikachu_-_Chrome_2023-05-28_16-58-15_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/b03b495f-4305-4717-ab9a-d8a5ae29f076)
+<br />
+<br />
+<br />
 
-<br />
-<br />
-<br />
+
 # Control Settings
 You can play around with the settings for water, pikachu and the Pokeball. 
 The control settings are in the **Water_Control, Pikachu_Control and Pokeball_Control** respectively.
+<br />
+<br />
 
-<br />
-<br />
+
 ### Pikachu_Control :
 **P_{Horizontal}** : horizontal position of Pikachu
 **P_{Vertical}** : vertical position of Pikachu
-
-
 <br />
 <br />
+
+
 ### Pokeball_Control: 
 **B_{Horizontal}** : horizontal position of four people
 **B_{Vertical}** : vertical position of pokeball
+<br />
+<br />
 
-<br />
-<br />
+
 ### Water_Control :
 **W_{Flow}** : Enables water animation
 **W_{Amp}** : Wave amplitude
 **W_{freq}** : Frequency of wave 
 **W_{Level}** : Water level
+<br />
+<br />
+<br />
 
-<br />
-<br />
-<br />
 # Graph components
 Graph functions for each components are in the following folders :
+
 ### 1.Pikachu
 Pikachu is made up of 
   * Circles (9)
@@ -117,15 +120,15 @@ Pikachu is made up of
   * log (2)
   * Exponential (1)
   * Cubic (1)
-  * Square root (1) 
- 
+  * Square root (1)  
 <br />
+
 ### 2.Pokeball
 Pokeball is made up of: 
   * Circles (2)
   * Horizontal asymptote (2)
-
 <br />
+
 ### 3.Water
 Water is made up of a sinusoidal function
 
