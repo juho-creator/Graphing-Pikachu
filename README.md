@@ -48,7 +48,7 @@ position of the graph to match with the picture. The following parabolic equatio
 <br />
 <br />
 
-**Step 6 :** Two variables were added to each equations for controlling the X&Y position for the horizontal and vertical control of Pikachu<br />
+**Step 6 :** Two slider variables were added to each equations for controlling the horizontal and vertical position of Pikachu<br />
 ![Pikachu_-_Chrome_2023-05-28_16-35-47_AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/f740967f-7dd2-4423-91c6-f995e49a12b5)
 <br />
 <br />
@@ -82,7 +82,7 @@ Creating pokeball was fairly easy because all I needed was a horizontal asymptot
 <br />
 
 ## Water 
-Creating the water equation was easy because I only used sinusoidal equation however coming up with the various interactive features on the sinusoidal wave was difficult. 
+Creating the water equation was fairly easy because I only used sinusoidal equation however coming up with the various interactive features on the sinusoidal wave was difficult. 
 
 **Step 1:** Sinusoidal function and inequality function was combined to create the affect of having a wave like form filled with blue colors below the graph just like water.
 <br />
