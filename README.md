@@ -30,18 +30,18 @@ W_{Level} : Water level
 Graph functions for each components are in the following folders :
 ### 1.Pikachu
 Pikachu made up of 
-  *Circles (9)
-  *parabola (9)
-  *Ellipse (2)
-  *log (2)
-  *Exponential (1)
-  *Cubic (1)
-  *Square root (1)
+  * Circles (9)
+  * parabola (9)
+  * Ellipse (2)
+  * log (2)
+  * Exponential (1)
+  * Cubic (1)
+  * Square root (1) 
 
 ### 2.Pokeball
 Pokeball made up of: 
-  *Circles (2)
-  *Horizontal asymptote (2)
+  * Circles (2)
+  * Horizontal asymptote (2)
 
 ### 3.Water
 Water made up of a sinusoidal function
