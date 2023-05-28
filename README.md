@@ -10,6 +10,10 @@ The pikachu, pokeball and water is made interactive to make it even better!
 
 
 You can Check it out right here! [Pikachu Graph](https://www.desmos.com/calculator/v8mpye0wof)
+<br />
+<br />
+<br />
+<br />
 
 # Creation Process 
 
