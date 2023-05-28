@@ -5,6 +5,9 @@ I created an interactive graph of pikachu and pokeball floating on water using v
 The pikachu, pokeball and water is made interactive to make it even better!
 
 ![giphy__1__AdobeExpress](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/be895168-24b0-4cc1-9419-f5ffe3dabc9f)
+
+
+
 You can Check it out right here! [Pikachu Graph](https://www.desmos.com/calculator/rzd2rreo3j)
 
 # Creation Process 
