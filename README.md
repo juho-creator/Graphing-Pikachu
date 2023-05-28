@@ -1,6 +1,7 @@
 # Graphing-Pikachu
 
 Interactive Pikachu Graph
+=============
 I created an interactive graph of pikachu floating on water using various graphs!
 
 You can Check it out right here!:
