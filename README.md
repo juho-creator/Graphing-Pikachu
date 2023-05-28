@@ -21,7 +21,7 @@ You can Check it out right here! [Pikachu Graph](https://www.desmos.com/calculat
 Creating the Pikachu took a very long time because I used so many different equations to trace each parts of Pikachu.
 
 <br />
-**Step 1 :** I added a png of Pikachu on desmos. 
+** Step 1 : ** I added a png of Pikachu on desmos. 
 
 <br />
 **Step 2 :** Created a parabolic equation with a variable constants A,B, and C each for controlling concavity, X and Y 
