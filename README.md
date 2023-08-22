@@ -16,7 +16,7 @@
 # How to use the interactive graph
 1. Click [Pikachu Graph](https://www.desmos.com/calculator/v8mpye0wof) to access the interactive graph
 2. Click on the play button inside each folder to control each component
-3. For more details on animation control, refer to control settings
+3. For more details on animation control, refer to [control settings](https://github.com/juho-creator/Interactive-Pikachu-Pokeball-Graph/blob/main/README.md#control-settings)
 
 <br />
 <br />
