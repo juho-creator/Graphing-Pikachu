@@ -68,7 +68,7 @@ This equation was used to trace specific sections of Pikachu:
 $Y = A((X - B)^2) + C$
 <br /><br />
 
-**Step 3:** After aligning the graph with the image, unnecessary portions were removed using domain and range adjustments. 
+**Step 3:** After aligning the graph with the image, unnecessary portions were removed using domain and range adjustments. <br />
 ![Step 3](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/88e56472-a879-4144-8cb2-e50f300d62f0)
 <br /><br />
 
