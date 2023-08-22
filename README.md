@@ -148,15 +148,19 @@ Pikachu is composed of the following functions:
 * Log (2)
 * Exponential (1)
 * Cubic (1)
-* Square root (1)
+* Square root (1
+<br /><br />
 
 ### 2. Pokeball
 Pokeball consists of the following functions:
 * Circles (2)
 * Horizontal asymptote (2)
+<br /><br />
+
 
 ### 3. Water
 Water is made up of a sinusoidal function.
+<br /><br />
 
 In total, 30 equations of 10 different types of functions were utilized in the creation of these graphical components.
  
