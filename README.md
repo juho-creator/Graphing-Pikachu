@@ -82,7 +82,7 @@ $Y = A((X - B)^2) + C$
 **Step 6:** To make Pikachu interactive, slider variables were incorporated into each partial equation, enabling control over Pikachu's horizontal and vertical alignment. <br />
 ![Step 6](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/f740967f-7dd2-4423-91c6-f995e49a12b5)
 
-This comprehensive process led to the creation of the Pikachu image, meticulously constructed through a combination of equations and careful adjustments.
+This comprehensive process led to the creation of interactive Pikachu , meticulously constructed through a combination of equations and careful adjustments.
 
 <br />
 <br />
@@ -107,7 +107,7 @@ Crafting the PokeBall involved a straightforward procedure employing a horizonta
 ![Step 4](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/cbe51756-feb1-4c6c-8cad-c2208d755d21)
 <br /><br />
 
-This streamlined process resulted in the creation of the PokeBall image, leveraging equation-based design and dynamic adjustments.
+This streamlined process resulted in the creation of the interactive PokeBall, leveraging equation-based design and dynamic adjustments.
 
 <br />
 <br />
@@ -115,7 +115,6 @@ This streamlined process resulted in the creation of the PokeBall image, leverag
 <br />
 
 ## Water Design
-
 The creation of the water equation was a relatively straightforward process, employing a sinusoidal equation with an inequality. <br />
 However, the challenge emerged in developing various interactive features for the sinusoidal wave.
 <br /><br />
