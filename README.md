@@ -31,24 +31,24 @@
 
 
 ### Pikachu_Control :
-* **`P_Horizontal`** : Horizontal position of Pikachu
-* **`P_Vertical`** : Vertical position of Pikachu
+* **P <sub> Horizontal</sub>** : Horizontal position of Pikachu 
+* **P <sub> Vertical </sub>** : Vertical position of Pikachu
 <br />
 <br />
 
 
 ### Pokeball_Control: 
-* **`B_Horizontal`** : Horizontal position of four people
-* **`B_Vertical`** : Vertical position of pokeball
+* **B	<sub>Horizontal</sub>** : Horizontal position of four people
+* **B <sub>Vertical</sub>** : Vertical position of pokeball
 <br />
 <br />
 
 
 ### Water_Control :
-* **`W_Flow`** : Enables water animation<br />
-* **`W_Amp`** : Wave amplitude<br />
-* **`W_freq`** : Frequency of wave <br />
-* **`W_Level`** : Water level<br />
+* **W <sub> Flow</sub>** : Enables water animation<br />
+* **W <sub>Amp </sub>** : Wave amplitude<br />
+* **W	<sub> freq</sub>** : Frequency of wave <br />
+* **W <sub>Level </sub>** : Water level<br />
 
 <br />
 <br />
