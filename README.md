@@ -1,15 +1,57 @@
-Interactive Pikachu Graph
-=============
+# Interactive Pikachu Graph
+* This is an interactive graph of pikachu and pokeball floating on water
+* Total of 30 equations of 10 different types of functions were used.
+<br />
+<br />
 
-I created an interactive graph of pikachu and pokeball floating on water using various graphs!
-The pikachu, pokeball and water is made interactive to make it even better!
 
-
-
+# Graph Demo
 ![Pikachu_-_Chrome_2023-05-28_16-11-35_AdobeExpress (1)](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/df81b209-0bf5-4404-8255-aa2323151de5)
+<br />
+<br />
+<br />
+<br />
+<br />
+
+# How to use the interactive graph
+1. Click [Pikachu Graph](https://www.desmos.com/calculator/v8mpye0wof) to access the interactive graph
+2. Click on the play button inside each folder to control each component
+3. For more details on animation control, refer to control settings
+
+<br />
+<br />
+<br />
+<br />
 
 
-You can Check it out right here! [Pikachu Graph](https://www.desmos.com/calculator/v8mpye0wof)
+# Control Settings
+* You can play around with the settings for water, pikachu and the Pokeball. <br />
+* The control settings are in the following folders : **Water_Control, Pikachu_Control and Pokeball_Control**
+<br />
+
+
+### Pikachu_Control :
+* **P_Horizontal** : horizontal position of Pikachu
+* **P_Vertical** : vertical position of Pikachu
+<br />
+<br />
+
+
+### Pokeball_Control: 
+**B_Horizontal** : horizontal position of four people
+<br />
+
+**B_Vertical** : vertical position of pokeball
+<br />
+<br />
+
+
+### Water_Control :
+* **W_Flow** : Enables water animation<br />
+* **W_Amp** : Wave amplitude<br />
+* **W_freq** : Frequency of wave <br />
+* **W_Level** : Water level<br />
+
 <br />
 <br />
 <br />
@@ -103,36 +145,7 @@ Creating the water equation was fairly easy because I only used sinusoidal equat
 
 
 
-# Control Settings
-You can play around with the settings for water, pikachu and the Pokeball. 
-The control settings are in the **Water_Control, Pikachu_Control and Pokeball_Control** respectively.
-<br />
-<br />
 
-
-### Pikachu_Control :
-**P_Horizontal** : horizontal position of Pikachu
-<br />
-
-**P_Vertical** : vertical position of Pikachu
-<br />
-<br />
-
-
-### Pokeball_Control: 
-**B_Horizontal** : horizontal position of four people
-<br />
-
-**B_Vertical** : vertical position of pokeball
-<br />
-<br />
-
-
-### Water_Control :
-**W_Flow** : Enables water animation<br />
-**W_Amp** : Wave amplitude<br />
-**W_freq** : Frequency of wave <br />
-**W_Level** : Water level<br />
 
 <br />
 <br />
