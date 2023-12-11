@@ -147,7 +147,7 @@ Pikachu is composed of the following functions:
 * Log (2)
 * Exponential (1)
 * Cubic (1)
-* Square root (1
+* Square root (1)
 <br /><br />
 
 ### 2. Pokeball
