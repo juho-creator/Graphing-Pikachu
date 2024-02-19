@@ -1,3 +1,6 @@
+[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/Interactive-Pikachu-Pokeball-Graph/blob/main/README.KR.md)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/Interactive-Pikachu-Pokeball-Graph/blob/main/README.md)
+
 # Interactive Pikachu Graph
 * This is an interactive graph of pikachu and pokeball floating on water
 * Total of 30 equations of 10 different types of functions were used.
