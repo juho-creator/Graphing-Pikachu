@@ -1,3 +1,5 @@
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/Interactive-Pikachu-Pokeball-Graph/blob/main/README.md)
+
 # 움직이는 피카츄 그래프
 - 다양한 그래프를 사용하여 물 위에 떠다니는 피카츄와 포켓볼을 그래프로 만들었습니다. </br>
 - 피카츄, 포켓볼,물 모두 상호작용이 가능합니다.
