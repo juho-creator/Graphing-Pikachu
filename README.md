@@ -1,5 +1,6 @@
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](https://github.com/juho-creator/Interactive-Pikachu-Pokeball-Graph/blob/main/README.md)
 [![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](https://github.com/juho-creator/Interactive-Pikachu-Pokeball-Graph/blob/main/README.KR.md)
+[![汉语](https://img.shields.io/badge/lang-汉语-green.svg)](https://github.com/juho-creator/Interactive-Pikachu-Pokeball-Graph/blob/main/README.CH.md)
 
 # Interactive Pikachu Graph
 * This is an interactive graph of pikachu and pokeball floating on water
