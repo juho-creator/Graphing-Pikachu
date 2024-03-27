@@ -41,7 +41,7 @@
 
 
 ### Pokeball_Control: 
-* **B	<sub>Horizontal</sub>** : 四个人的水平位置
+* **B	<sub>Horizontal</sub>** : 精灵球水平位置
 * **B <sub>Vertical</sub>** : 精灵球的垂直位置
 <br />
 <br />
