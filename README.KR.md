@@ -4,17 +4,60 @@
 
 
 # 움직이는 피카츄 그래프
-- 다양한 그래프를 사용하여 물 위에 떠다니는 피카츄와 포켓볼을 그래프로 만들었습니다. </br>
-- 피카츄, 포켓볼,물 모두 상호작용이 가능합니다.
+- 피카츄, 포켓볼,물 모두 상호작용이 가능한 그래프입니다.
+- 10종류의 함수로 구성된 총 30개의 방정식이 사용되었습니다.
+</br>
 
+
+
+# 시연 영상
 ![피카츄](https://github.com/juho-creator/Graphing-Pikachu/assets/72856990/df81b209-0bf5-4404-8255-aa2323151de5)
+</br>
+</br>
+</br>
+</br>
+
+# 그래프 사용 방법
+1. [피카츄 그래프](https://www.desmos.com/calculator/v8mpye0wof)를 클릭하여 그래프를 확인해 볼 수 있습니다.
+2. 각 폴더 안의 재생 버튼을 클릭하여 각 구성 요소(물, 피카츄, 포켓볼)을 조절할 수 있습니다.
+3. 애니메이션 제어에 대한 자세한 내용은 [제어 설정](https://github.com/juho-creator/Interactive-Pikachu-Pokeball-Graph/blob/main/README.md#control-settings)을 참고하시길 바랍니다.
+<br />
+<br />
+<br />
+<br />
+
+# 제어 설정
+* 피카츄, 포켓볼, 물 애니메이션을 조절할 수 있습니다.
+* 각 구성요소의 제어 설정은 다음 폴더에 있습니다: **`Pikachu_Control, Pokeball_Control, Water_Control`**
+
+<br />
 
 
-여기서 확인할 수 있습니다 : [피카츄 그래프](https://www.desmos.com/calculator/v8mpye0wof)
+### Pikachu_Control :
+* **P <sub> Horizontal</sub>** : 피카츄 가로위치
+* **P <sub> Vertical </sub>** : 피카츄 세로위치
+<br />
+<br />
+
+
+### Pokeball_Control: 
+* **B	<sub>Horizontal</sub>** : 포켓볼 가로위치
+* **B <sub>Vertical</sub>** : 포켓볼 세로위치
+<br />
+<br />
+
+
+### Water_Control :
+* **W <sub> Flow</sub>** : 물 애니메이션<br />
+* **W <sub>Amp </sub>** : 파동의 진폭 <br />
+* **W	<sub> freq</sub>** : 파동의 주기 <br />
+* **W <sub>Level </sub>** : 수심 <br />
 <br />
 <br />
 <br />
 <br />
+
+
 # 생성 과정
 
 ## 피카츄
